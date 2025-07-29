@@ -26,12 +26,12 @@
     "na_sandbox":{
         "username" : "",
         "password" : "",
-        "oauth_token" : "76e04716241845538e795aee1d8a9aed",
+        "oauth_token" : "",
         "rsa_signature": "/v1/rsa-signatures",
         "zuora_base_url": "https://sandbox.na.zuora.com",
         "payment_page_url": "https://sandbox.na.zuora.com/apps/HostedPageLite.do",
-        "pageId": "8ac69328976dc668019777e505a90aad",
-        "accountId":"8ac691fe970b10430197215db08d7fa6",
-        "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyRasVz0xNib9Z963GPS3+pq7MyS3CdptA432ftWHk0d/TuhQCwhfv3lIsFp0Ry8EQwfGG4gis9JZ4ZTjVfoRNvktIVpP+XUj24apFAJ1TDs+Hrg8ooDTLQKwoliMhG4nlVarAP2JXTa4WBrz76i75QVP4z/mf0oZ8CKaSUbVPGb7Vw7mU7NClHU8YuIpy8ZB0kbSjiGZ9BiwxutWecGHoH+oFd+G5ZdMtjuklt1pbPnMHjoUnS87sHJruItQnGjMqDKdo9IuWTu1VClHToNm2gVBJvz1qbHQqMJcUJO041gbwZYV3HX/OzGRZGxqZkCWRUyEDv0+8VyweXGt8n9PvQIDAQAB"
+        "pageId": "",
+        "accountId":"",
+        "publicKey": ""
     }
 }
